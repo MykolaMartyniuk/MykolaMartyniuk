@@ -9,7 +9,7 @@ Focused on electronics design.
 ## 🔧 Tools & Stack
 
 - **EDA:** Altium Designer
-- **Languages:** Python
+- **Languages:** 
 - **Interests:** PCB design, digital & analog circuit design, military electronics, navigation systems
 
 ---
