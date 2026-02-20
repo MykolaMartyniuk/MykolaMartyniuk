@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mykola
 
-<!--
-**MykolaMartyniuk/MykolaMartyniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Radio Engineering student at Igor Sikorsky Kyiv Polytechnic Institute (KPI), Ukraine.
 
-Here are some ideas to get you started:
+Focused on electronics design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tools & Stack
+
+- **EDA:** Altium Designer
+- **Languages:** Python
+- **Interests:** PCB design, digital & analog circuit design, military electronics, navigation systems
+
+---
+
+## 📚 Currently
+
+Studying Radio Engineering at KPI. Working on academic projects in circuit design and electronics.
+
+---
+
+## 📬 Reach me
+
+- **Email:** cyclosarin180@gmail.com
+- **Telegram:** https://t.me/Casual_Chugunina
