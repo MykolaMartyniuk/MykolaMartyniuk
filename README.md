@@ -8,7 +8,7 @@ Focused on electronics design.
 
 ## 🔧 Tools & Stack
 
-- **EDA:** Altium Designer
+- **EDA:** KiCad
 - **Languages:** 
 - **Interests:** PCB design, digital & analog circuit design, military electronics, navigation systems
 
