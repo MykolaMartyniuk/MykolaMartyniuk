@@ -9,7 +9,7 @@ Focused on electronics design.
 ## 🔧 Tools & Stack
 
 - **EDA:** KiCad
-- **Languages:** 
+- **Languages:** Verilog HDL
 - **Interests:** PCB design, digital & analog circuit design, military electronics, navigation systems
 
 ---
